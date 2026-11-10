@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weightlosskennewick.com/sitemap.xml
